@@ -6,7 +6,7 @@ Xcode 11.7 / Swift 5 (master branch)
 iOS >= 13.0 (Use as an Embedded Framework)
 macOS >= 10.15.7
 
-## bUsed MVVM git Architecture      
+## Used MVVM git Architecture      
 Model-View-ViewModel (MVVM) is a design pattern that’s gained traction in the iOS development community in recent years. It involves a new concept called a view model. In iOS apps, a view model is a companion object to a view controller.
   
 ## The layers used in Application 
@@ -26,8 +26,8 @@ As shown above, the MVVM pattern consists of three layers:
 3. config class through which i am  getting base URL 
 
 ## charts 
-1.Add pod 'Charts' to your Podfile. "Charts" is the name of the library
-2.Chart type used in Application:PieChart (with animation)
+1. Add pod 'Charts' to your Podfile. "Charts" is the name of the library
+2. Chart type used in Application:PieChart (with animation)
 
 ## core logic
 1. Implemented websocket connection with baseURL("ws://city-ws.herokuapp.com/") for geeeting AQI status in every 30S.
