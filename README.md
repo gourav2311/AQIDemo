@@ -26,7 +26,7 @@ As shown above, the MVVM pattern consists of three layers:
 3. config class through which i am  getting base URL 
 
 ## charts 
-1.Add pod 'Charts' to your Podfile. "Charts" is the name of the library.
+1.Add pod 'Charts' to your Podfile. "Charts" is the name of the library
 2.Chart type used in Application:PieChart (with animation)
 
 ## core logic
