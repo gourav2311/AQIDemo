@@ -1,7 +1,7 @@
 
-#AQI   
+# AQI   
           
-##Tech
+## Tech
 Xcode 11.7 / Swift 5 (master branch)
 iOS >= 13.0 (Use as an Embedded Framework)
 macOS >= 10.15.7
